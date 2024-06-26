@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">JohnApp</string>
+    <string name="question_image">Description of the question image</string>
+    <string name="cow_translation">Корова / Cow</string>
+    <string name="chicken_translation">Курица / Chicken</string>
+    <string name="background_image">background_image</string>
+    <string name="cow">cow</string>
+    <string name="chicken">chicken</string>
+    <string name="horse_english" />
+    <string name="listen" />
+    <string name="horse_russian" />
+    <string name="horse_description" />
+
+
+</resources>

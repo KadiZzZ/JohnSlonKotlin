@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_graph"
+    app:startDestination="main">
+
+    <activity android:id="@+id/main"
+        android:name="com.example.johnapp.MainActivity"
+        tools:layout="@layout/activity_main" />
+
+    <activity android:id="@+id/find_and_remember_level_1"
+        android:name="com.example.johnapp.FindAndRememberLevel1Activity"
+        tools:layout="@layout/activity_find_and_remember_level_1" />
+
+    <!-- Здесь добавьте другие активности вашего приложения -->
+
+</navigation>
